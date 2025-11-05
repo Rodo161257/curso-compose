@@ -128,7 +128,7 @@ fun Tarjeta() {
 @Composable
 fun Arbol() {
     Image(
-        painterResource(R.drawable.arbol),
+        painterResource(R .drawable.arbol),
         "Icono de Android",
         Modifier
             .size(200.dp)

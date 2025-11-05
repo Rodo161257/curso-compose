@@ -5,39 +5,41 @@ import com.rodolfo.cfp401.cursoappsmoviles.R
 
 val listadoVegetales = listOf<Vegetal>(
     Vegetal(
-        "banana",
-        nombreCientifico = "Bananus Cientificus",
+        nombreVulgar = "Banana",
+        nombreCientifico = "Musa paradisíaca",
         imagen = R.drawable.bananas,
-        "tropical, rica en K",
+        "Clima tropical, rica en K",
     ),
     Vegetal(
-        nombreVulgar = "naranja",
-        nombreCientifico = "Naranjus Nobillis",
+        nombreVulgar = "Naranja",
+        nombreCientifico = "Citrus sinensis",
         imagen = R.drawable.naranjas,
-        propiedades = "templado, rica en Vit.C"
+        propiedades = "Cliama templado, rica en Vit.C"
 
     ),
     Vegetal(
-        nombreVulgar = "manzana",
-        nombreCientifico = "Prunus manzanus",
+        nombreVulgar = "Manzana",
+        nombreCientifico = "Malus doméstica",
         imagen = R.drawable.manzanas,
-        propiedades = "clima frio, rica en minerales"
+        propiedades = "Clima frio, rica en minerales"
 
     ),
     Vegetal(
-        nombreVulgar = "lechuga",
+        nombreVulgar = "Lechuga",
         nombreCientifico = "Lactuca sativa",
         imagen = R.drawable.lechugas,
-        propiedades = "clima templado, rica en Vit.A"
+        propiedades = "Clima templado, rica en Vit.A"
     ),
     Vegetal(
-        nombreVulgar = "cebolla",
-        nombreCientifico = "Cebollun sativa",
+        nombreVulgar = "Cebolla",
+        nombreCientifico = "Allium cepa",
         imagen = R.drawable.cebollas,
-        propiedades = "clima templado, rica en Vit.E"
+        propiedades = "Clima templado, rica en Vit.E"
     ),
     Vegetal(
         nombreVulgar = "Tomate",
-        nombreCientifico = "Capsicum sativus",
+        nombreCientifico = "Solanum lycopersicum",
         imagen = R.drawable.tomates,
-        propiedades = "clima templado, rico en licopeno"
+        propiedades = "Clima templado, rico en licopeno"
+    )
+)
