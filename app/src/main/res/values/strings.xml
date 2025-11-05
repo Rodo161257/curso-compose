@@ -2,4 +2,6 @@
     <string name="app_name">PrimeraApp</string>
     <string name="title_activity_primera_aplicacion">PrimeraAplicacion</string>
     <string name="title_activity_evergreen">Evergreen</string>
+    <string name="title_activity_uusuario_contraseña">UusuarioContraseña</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

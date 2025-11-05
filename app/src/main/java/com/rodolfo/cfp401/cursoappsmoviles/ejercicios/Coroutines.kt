@@ -1,4 +1,4 @@
-package com.rodolfo.cfp401.cursoappsmoviles
+package com.rodolfo.cfp401.cursoappsmoviles.ejercicios
 
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
